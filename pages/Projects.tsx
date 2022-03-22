@@ -7,7 +7,7 @@ export default function Projects() {
     return (
         <>
             <Title sx={{fontSize: "xxx-large", fontWeight: 900, letterSpacing: -2}} align="center" mt={10}>
-                <BouncyText name={"Projects"} color={"blue"}/>
+                <BouncyText name={"Projects"}/>
             </Title>
         </>
     );

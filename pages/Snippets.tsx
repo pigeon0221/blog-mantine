@@ -7,7 +7,7 @@ export default function Snippets() {
     return (
         <>
             <Title sx={{fontSize: "xxx-large", fontWeight: 900, letterSpacing: -2}} align="center" mt={10}>
-                <BouncyText name={"Snippets"} color={"green"}/>
+                <BouncyText name={"Snippets"}/>
             </Title>
         </>
     );
